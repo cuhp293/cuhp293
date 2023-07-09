@@ -16,6 +16,17 @@
     <a href="mailto:phuchong292003@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>
 </div>
 
+<h1 align="left">Github Stats </h1>
+<br>
+<div align="left">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuhp293&layout=compact&theme=noctis_minimus"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=cuhp293&show_icons=true&theme=noctis_minimus" />
+</div>
+<br>
+
+---
+[![](https://visitcount.itsvg.in/api?id=cuhp293&label=Profile%20Views&color=4&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
 <!--
 **cuhp293/cuhp293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
