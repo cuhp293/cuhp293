@@ -8,6 +8,14 @@
   </div>
 </div>
 
+<h1 align="left">Github Stats </h1>
+<br>
+<div align="left">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuhp293&layout=compact&theme=buefy" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=cuhp293&show_icons=true&theme=buefy" />
+</div>
+<br>
+
 <h1 align="left">Contact me</h1>
 <br>
 <div align="left">
@@ -16,14 +24,6 @@
     <a href="https://github.com/cuhp293" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"></a>
     <a href="mailto:phuchong292003@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>
 </div>
-
-<h1 align="left">Github Stats </h1>
-<br>
-<div align="left">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuhp293&layout=compact&theme=buefy" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=cuhp293&show_icons=true&theme=buefy" />
-</div>
-<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cuhp293&label=Profile%20Views&color=4&icon=3&pretty=true)](https://visitcount.itsvg.in)
