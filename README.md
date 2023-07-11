@@ -12,7 +12,7 @@
 <br>
 <div align="left">
     <a href="https://www.facebook.com/cuhp293" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="30"></a>
-    <a href="https://www.instagram.com/ssy_sau/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30"></a>
+    <!--<a href="https://www.instagram.com/ssy_sau/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30"></a> -->
     <a href="https://github.com/cuhp293" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"></a>
     <a href="mailto:phuchong292003@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>
 </div>
