@@ -20,8 +20,8 @@
 <h1 align="left">Github Stats </h1>
 <br>
 <div align="left">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuhp293&layout=compact&theme=noctis_minimus"/>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=cuhp293&show_icons=true&theme=noctis_minimus" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuhp293&layout=compact&theme=buefy" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=cuhp293&show_icons=true&theme=buefy" />
 </div>
 <br>
 
