@@ -1,14 +1,17 @@
-<h1 align="left">Programming Languages </h1>
+<h2 align="left">Programming Languages </h2>
 <br>
 <div align="left">
   <div>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30" />
-    <img src="https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=MIPS&logoColor=white" alt="Assembly" height="30"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="30" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="20" />
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="20" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white" alt="Java" height="20" />
+    <img src="https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white" alt="LaTeX" height="20" />
+    <img src="https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=MIPS&logoColor=white" alt="Assembly" height="20" />
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="Postgres" height="20" />
   </div>
 </div>
 
-<h1 align="left">Github Stats </h1>
+<h2 align="left">Github Stats </h2>
 <br>
 <div align="left">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuhp293&layout=compact&theme=buefy" />
@@ -16,7 +19,7 @@
 </div>
 <br>
 
-<h1 align="left">Contact me</h1>
+<h2 align="left">Contact me</h2>
 <br>
 <div align="left">
     <a href="https://www.facebook.com/cuhp293" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="30"></a>
